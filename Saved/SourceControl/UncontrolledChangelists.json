@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/VP/3W92IC7O7GKINRV095K1C9.uasset",
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/BP_Projectile.uasset",
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/TN/6I5FB5UNNW970NOYU4RHUI.uasset",
+				"C:/Users/felix/Documents/Unreal Projects/POC_Multi2/Content/InGame.umap"
+			]
+		}
+	]
+}
