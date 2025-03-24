@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/felix/Unreal_Project/Final_Project_UQAC/Content/Blueprints/BP_MK6.uasset",
+				"C:/Users/felix/Unreal_Project/Final_Project_UQAC/Content/Base.umap",
+				"C:/Users/felix/Unreal_Project/Final_Project_UQAC/Content/Blueprints/BP_MK5.uasset",
 				"C:/Users/felix/Documents/Unreal Projects/POC_FlyingTank/Content/Base.umap",
 				"C:/Users/felix/Documents/Unreal Projects/POC_FlyingTank/Content/Blueprints/BP_MK1.uasset",
 				"C:/Users/felix/Documents/Unreal Projects/POC_FlyingTank/Content/Blueprints/BP_HoverComponent.uasset",
